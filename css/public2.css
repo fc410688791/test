@@ -1,0 +1,88 @@
+.top-nav{  
+    position: fixed;  
+    top: 0; 
+	left: 0;
+    margin: 0 auto;  
+    z-index: 999;
+	height:70px;
+	line-height:70px;
+	background:#FFFFFF;
+} 
+.top-bar{
+	float:left;
+	cursor:pointer;
+	font-size:14px;
+	font-color:#000000;
+	text-decoration:none;
+	margin-right:30px;
+}
+.footer-bar{
+	float:left;
+	cursor:pointer;
+	font-size:14px;
+	font-color:#FFFFFF;
+	text-decoration:none;
+	margin-right:40px;
+}
+a{
+	font-size:16px;
+	color:#000000;
+}
+a:hover
+{ 
+    color:#000000;
+	text-decoration:none;
+}
+.footer-bar>a{
+	font-size:16px;
+	color:#FFFFFF;
+}
+.footer-bar>a:hover{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.bg-img{
+	width:100%;
+	height:auto;
+} 
+.btn-join{
+	margin-top:30px;
+	width:90px;
+	height:30px;
+	line-height:30px;
+	border:0px;
+	border-radius:15px;
+	background-color:#FAA523;
+	padding:0px;
+}
+.div-icon{
+	height:300px;
+}
+.img-icon{
+	width:40px;
+	height:30px;
+}
+.p-icon{
+	margin:10px auto 20px auto;
+	color:#00497F;
+	font-size:16px;
+	font-weight:bold;
+}
+.p-describe{
+	margin:0px auto;
+	font-size:14px;
+	width:230px;
+}
+.p-describe>p{
+	text-align:left;
+}
+.country{
+	margin-top:30px;
+}
+.country>p{
+	float:left;
+}
+.country>p>a{
+	color:#FFFFFF;
+	font-size:14px;
+}
